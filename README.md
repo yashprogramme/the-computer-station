@@ -45,7 +45,7 @@ h1{ color: black;}
  </style>
  <header>thankyou</header>
 <p>Devloper = the web company</p>
-	<p>the website is published on google only</p>
+	<p>the website is published safely</p>
 	<p>owner of the web company = yashraj upadhyaya</p>
 	<p>great service at low price</p>
 	<hr>
