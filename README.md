@@ -3,7 +3,7 @@ hire web designer at low price
 <html><head>
 <body bgcolor="lightgrey">
 <div style="text-align: center;">
-	<img src="C:\Users\HP\Desktop\every files\software icon.png">
+	<img src="https://github.com/yashprogramme/the-web_company.git">
 	<style type="text/css">img {
   border-radius: 50%;
 }
