@@ -44,8 +44,8 @@ h1{ color: black;}
 
  </style>
  <header>thankyou</header>
-<p>Devloper = the web company</p>
+<p>Devloper = the web tech</p>
 	<p>the website is published safely</p>
-	<p>owner of the web company = yashraj upadhyaya</p>
+	<p>owner of the web tech = yashraj_upadhyaya</p>
 	<p>great service at low price</p>
 	<hr>
