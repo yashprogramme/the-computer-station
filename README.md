@@ -1,4 +1,4 @@
-# the-web_company
+# the-web_tech
 hire web designer at low price
 <html><head>
 <body bgcolor="lightgrey">
@@ -9,7 +9,7 @@ hire web designer at low price
 }
 </style>
 </div>
-<h1 align="center" style="color: black;">THE-WEB_COMPANY</h1>
+<h1 align="center" style="color: black;">THE-WEB_tech</h1>
 <hr>
 <font align="center"><h1 >Hire web desingner at low price</h1>
 	<h1 >contact the webdesigner</h1>
