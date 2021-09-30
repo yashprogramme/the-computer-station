@@ -49,4 +49,4 @@ h1{ color: black;}
 	<p>owner of the web tech = yashraj_upadhyaya</p>
 	<p>great service at low price</p>
 	<hr>
-	<img src="C:\Users\HP\Desktop\error.web.png">
+	<img src="error.web.png">
