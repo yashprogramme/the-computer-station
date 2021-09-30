@@ -54,5 +54,5 @@ h1{ color: black;}
   border-radius: 50%;
 }
 </style>
-	<h1> the-web_tech only do web designing and web hosting domian you have to purchase by yourself</h1>
-	<h1> the-Web_tech don't sell domains</h1>
+	<h1 style="color:red;"> the-web_tech only do web designing and web hosting domian you have to purchase by yourself</h1>
+	<h1 style="color:yellow;"> the-Web_tech don't sell domains</h1>
