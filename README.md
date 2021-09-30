@@ -50,3 +50,7 @@ h1{ color: black;}
 	<p>great service at low price</p>
 	<hr>
 	<img src="error.web.png">
+	<style type="text/css">img {
+  border-radius: 50%;
+}
+</style>
