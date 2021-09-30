@@ -1,7 +1,7 @@
 # the-web_tech
 hire web designer at low price
 <html><head>
-<body bgcolor="lightgrey">
+<body background="C:\Users\HP\Desktop\error.web.png">
 <div style="text-align: center;">
 	<img src="software icon.png">
 	<style type="text/css">img {
