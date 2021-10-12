@@ -9,7 +9,7 @@ hire web designer at low price
 }
 </style>
 </div>
-<h1 align="center" style="color: black;">THE-WEB_tech</h1>
+<h1 align="center" style="color: black;">THE-WEB_heisth</h1>
 <hr>
 <font align="center"><h1 >Hire web desingner at low price</h1>
 	<h1 >contact the webdesigner</h1>
@@ -44,9 +44,9 @@ h1{ color: black;}
 
  </style>
  <header>thankyou</header>
-<p>Devloper = the web tech</p>
+<p>Devloper = the web heist</p>
 	<p>the website is published safely</p>
-	<p>owner of the web tech = yashraj_upadhyaya</p>
+	<p>owner of the web heist = yash</p>
 	<p>great service at low price</p>
 	<hr>
 	<img src="error.web.png">
@@ -54,5 +54,5 @@ h1{ color: black;}
   border-radius: 50%;
 }
 </style>
-	<h1 style="color:red;"> the-web_tech only do web designing and web hosting domian you have to purchase by yourself</h1>
-	<h1 style="color:yellow;"> the-Web_tech don't sell domains</h1>
+	<h1 style="color:red;"> the-web_heist only do web designing and web hosting domian you have to purchase by yourself</h1>
+	<h1 style="color:yellow;"> the-Web_heist don't sell domains</h1>
