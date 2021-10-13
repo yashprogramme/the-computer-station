@@ -2,7 +2,7 @@
 <title>work</title>
 <body bgcolor="lightgrey">
 <div style="text-align: center;">
-	<img src="C:\Users\HP\Desktop\software icon.png">
+	<img src="software icon.png">
 	<style type="text/css">img {
   border-radius: 50%;
 }
