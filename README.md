@@ -47,5 +47,5 @@ h1{ color: black;}
 	<p>owner of the_web-heist = yash</p>
 	<p>great service at low price</p>
 	<hr>
-<img src="">
-	
+<img src="error.web.png">
+	<h1 style="color:yellow">i am not going to give u a domain for free you have to purchase it by somewhere else</h1>
