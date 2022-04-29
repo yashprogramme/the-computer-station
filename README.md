@@ -1,7 +1,6 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-	<title>the news station</title>
 	<body background="https://github.com/yashprogramme/the-news-station/blob/main/astronomy-gb9a3b3e76_1280.jpg">
 			<img src="https://github.com/yashprogramme/the-news-station/blob/main/memes.png" style="margin-left: 35%;border-radius: 30%; ">
 	<img src="\C:\Users\hp\Desktop\hel.jpg" style="margin-left: 30%;border-radius: 0% ">
