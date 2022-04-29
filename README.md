@@ -18,5 +18,12 @@
   
 	 
         <a href="https://edition.cnn.com/"> <button style="margin-left: 8%"><img src="cnn.png"></button> </a>
+	
+	
+<a href="https://news.sky.com/"> <button style="margin-left: 10%"><img src="sky news.jpg"></button> </a>
+
+<a href="https://www.foxnews.com/"> <button style="margin-left: 13%"><img src="fox news.png"></button> </a>
+
+<a href="https://www.euronews.com/"> <button style="margin-left: 16%"><img src="euro news.jpg"></button> </a>
 
 	
