@@ -2,7 +2,7 @@
 <head>
 <body background="astronomy-gb9a3b3e76_1280.jpg">
 	<img src="memes.png" style="border-radius: 30%; ">
-         <img src="hel.jpg" style="border-radius: 30%; ">
+         
 	<h3 style="margin-left: 35%;">Get your news on time</h3>
 	<h3 style="margin-left: 35%;">Get your kind of news</h3>
 	<h3 style="margin-left: 35%;">Always your choice</h3>
@@ -57,6 +57,8 @@
 
 <a href="https://www.deccanherald.com/"><button style="margin-left: 20"><img src="deccan1.png"></button></a>
 
+	
+<img src="hel.jpg" style="border-radius: 30%; ">
 	
 <p>Thank you for visiting this site</p>
 <p>Designer contact for complaint:yashupadhayaya8@gmail.com </p>
