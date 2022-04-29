@@ -57,8 +57,7 @@
 
 <a href="https://www.deccanherald.com/"><button style="margin-left: 20"><img src="deccan1.png"></button></a>
 
-	
-<img src="hel.jpg" style="border-radius: 30%; ">
+
 	
 <p>Thank you for visiting this site</p>
 <p>Designer contact for complaint:yashupadhayaya8@gmail.com </p>
