@@ -20,7 +20,7 @@
          <a href="https://www.foxnews.com/"> <button style="margin-left: 0%"><img src="fox news.png"></button> </a>
 	<br>
 	 <a href="https://www.euronews.com/"> <button style="margin-left: 0%"><img src="euro news.jpg"></button> </a>
-	<a href="https://www.theguardian.com/"> <button style="margin-left: 0%"><img src="the guardian.png" width ="300"></button> </a>
+	<a href="https://www.theguardian.com/"> <button style="margin-left: 0%"><img src="the guardian.png" width ="200"></button> </a>
 	
 	 
       
