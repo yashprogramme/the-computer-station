@@ -37,6 +37,8 @@
 <a href="https://www.thestatesman.com/"><button style="margin-left: 20"><img src="statesmen.png"></button></a>
 
 <a href="https://indianexpress.com/"><button style="margin-left: 20"><img src="the indian express.jpg"></button></a>
+	
+<a href="https://www.deccanherald.com/"><button style="margin-left: 20"><img src="deccan1.png"></button></a>
 <style type="text/css">
 	img{ border-radius: 10%;
 
@@ -49,8 +51,6 @@
 <br>
 <br>
 <br>
-
-<a href="https://www.deccanherald.com/"><button style="margin-left: 20"><img src="deccan1.png"></button></a>
 
 
 	
