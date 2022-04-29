@@ -26,7 +26,7 @@
       
 <hr>
 
-<u><h1 style="color: white">NATIONAL NEWS SECTION (Indian)</u></h1>
+	<u><h1 style="color: white">NATIONAL NEWS SECTION (Indian)</h1></u>
 
 	
 	<h1>choose your station</h1>
