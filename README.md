@@ -32,5 +32,14 @@
 
 <u><h1 style="color: white">NATIONAL NEWS SECTION (Indian)</u></h1>
 
+	
+	<h1>choose your station</h1>
+<a href="https://www.hindustantimes.com/"><button onclick=""><img src="hindustan times.png"></button></a>
+
+<a href="https://timesofindia.indiatimes.com/"><button style="margin-left: 20"><img src=" india.png"></button></a>
+
+<a href="https://www.thestatesman.com/"><button style="margin-left: 20"><img src="statesmen.png"></button></a>
+
+<a href="https://indianexpress.com/"><button style="margin-left: 20"><img src="the indian express.jpg"></button></a>
 
 	
