@@ -19,6 +19,8 @@
 	
          <a href="https://www.foxnews.com/"> <button style="margin-left: 13%"><img src="fox news.png"></button> </a>
 	<br>
+	<a href="https://www.theguardian.com/"> <button style="margin-left: 5%"><img src="the guardian.png"></button> </a>
+	 <a href="https://www.euronews.com/"> <button style="margin-left: 0%"><img src="euro news.jpg"></button> </a>
 	 
       
 <hr>
