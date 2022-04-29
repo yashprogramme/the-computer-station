@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>the news station</title>
-	<body background="C:\Users\hp\Downloads\astronomy-gb9a3b3e76_1280.jpg">
+	<body background="https://github.com/yashprogramme/the-news-station/blob/main/astronomy-gb9a3b3e76_1280.jpg">
 			<img src="C:\Users\hp\Desktop\memes.png" style="margin-left: 35%;border-radius: 30%; ">
 	<img src="\C:\Users\hp\Desktop\hel.jpg" style="margin-left: 30%;border-radius: 0% ">
 	<h1 style="margin-left: 35%;">Get your news on time</h1>
