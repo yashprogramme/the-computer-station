@@ -1,7 +1,7 @@
 <html>
 <head>
 <body background="astronomy-gb9a3b3e76_1280.jpg">
-	<img src="memes.png" style="margin-left: 10%;border-radius: 30%; ">
+	<img src="memes.png" style="border-radius: 30%; ">
 	<h1 style="margin-left: 35%;">Get your news on time</h1>
 	<h1 style="margin-left: 35%;">Get your kind of news</h1>
 	<h1 style="margin-left: 35%;">Always your choice</h1>
