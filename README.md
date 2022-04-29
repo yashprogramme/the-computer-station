@@ -10,4 +10,8 @@
 		<h2 style="color: white">connect with various news network in one place</h2>
 		<h2 style="color: white">connect with network such as BBC,SKY,CNN etc..</h2>
 	<h1 style="color:white">__________________________________________________________</h1>
+	<u><h1 style="color: white">GLOBAL NEWS SECTION</u></h1>
+<h1 style="color: snow">choose your station</h1>
+<h1 style="color: white">Get the news station that are floating in space for u. </h1>
+<h3 style="color: yellow">click the channel you want to view</h3>
 	
