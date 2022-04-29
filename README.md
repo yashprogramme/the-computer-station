@@ -25,6 +25,12 @@
 	<br>
         <br>
          <br>
-         <a href="https://www.euronews.com/"> <button style="margin-left: 16%"><img src="euro news.jpg"></button> </a>
+         <a href="https://www.euronews.com/"> <button style="margin-left: 0%"><img src="euro news.jpg"></button> </a>
+	
+	<a href="https://www.theguardian.com/"> <button ><img src="the guardian.png"></button> </a>
+<hr>
+
+<u><h1 style="color: white">NATIONAL NEWS SECTION (Indian)</u></h1>
+<h1>choose your station</h1>
 
 	
