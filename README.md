@@ -56,7 +56,7 @@
 	
 <p>Thank you for visiting this site</p>
 <p>Designer contact for complaint:yashupadhayaya8@gmail.com </p>
-<p>view daily feed</p>
+<p>Get new news everyday</p>
 <style type="text/css">
 	p{ text-align: center;
 	    color: yellow;
