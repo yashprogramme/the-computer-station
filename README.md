@@ -62,7 +62,7 @@
 <p>view daily feed</p>
 <style type="text/css">
 	p{ text-align: center;
-	    color: orange;
+	    color: yellow;
 	}
 </style>
 	
