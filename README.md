@@ -15,5 +15,8 @@
 <h1 style="color: white">Get the news station that are floating in space for u. </h1>
 <h3 style="color: yellow">click the channel you want to view</h3>
 	<a href="https://www.bbc.com/news"><button onclick=""><img src="BBC.png"></button></a>
+  
+	 
+        <a href="https://edition.cnn.com/"> <button style="margin-left: 8%"><img src="cnn.png"></button> </a>
 
 	
