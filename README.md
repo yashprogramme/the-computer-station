@@ -57,3 +57,9 @@
 <a href="https://www.deccanherald.com/"><button style="margin-left: 20"><img src="deccan1.png"></button></a>
 
 	
+
+</head> 
+</body>
+</html>
+
+	
