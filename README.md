@@ -61,8 +61,8 @@
 <p>Designer contact for complaint:yashupadhayaya8@gmail.com </p>
 <p>view daily feed</p>
 <style type="text/css">
-	p{text-align: center;
-	  color: orange;
+	p{ text-align: center;
+	    color: orange;
 	}
 </style>
 	
