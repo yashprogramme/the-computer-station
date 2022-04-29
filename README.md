@@ -10,3 +10,4 @@
 		<h2 style="color: white">connect with various news network in one place</h2>
 		<h2 style="color: white">connect with network such as BBC,SKY,CNN etc..</h2>
 	<h1 style="color:white">__________________________________________________________</h1>
+	
