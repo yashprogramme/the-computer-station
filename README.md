@@ -17,7 +17,7 @@
 <h3 style="color: yellow">click the channel you want to view</h3>
 	<a href="https://www.bbc.com/news"><button onclick=""><img src="BBC.png"></button></a>
 	
-         <a href="https://www.foxnews.com/"> <button style="margin-left: 3%"><img src="fox news.png"></button> </a>
+         <a href="https://www.foxnews.com/"> <button style="margin-left: 0%"><img src="fox news.png"></button> </a>
 	<br>
 	<a href="https://www.theguardian.com/"> <button style="margin-left: 0%"><img src="the guardian.png"></button> </a>
 	 <a href="https://www.euronews.com/"> <button style="margin-left: 0%"><img src="euro news.jpg"></button> </a>
