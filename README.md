@@ -4,7 +4,7 @@
 	
 
 	<body background="bigbg.webp"></body>
-    	<img class="logo" src="kom.png">
+    	<img class="logo" align="middle"  src="kom.png" >
 
 	<h1 style="color: white;text-align: center;"><u>THE COMPUTER STATION</u></h1>
 	 
