@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>the computer station</title>
@@ -37,7 +37,7 @@
   color: white;
 }
 .logo { border-radius: 20%;
-	    margin-left: 36.5%;
+	    margin-left: 20%;
 
 
 }
