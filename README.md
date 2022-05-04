@@ -37,7 +37,7 @@
   color: white;
 }
 .logo { border-radius: 20%;
-	    margin-left: 20%;
+	    margin-left: 5%;
 
 
 }
