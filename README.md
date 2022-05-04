@@ -1,7 +1,7 @@
 
 <html>
 <head>
-	<title>the computer station</title>
+	
 
 	<body background="bigbg.webp"></body>
     	<img class="logo" align="middle" src="kom.png">
