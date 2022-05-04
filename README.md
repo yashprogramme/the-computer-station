@@ -13,7 +13,7 @@
   <a  class="active" href="">Laptop</a>
   <a href="">latest tranding smartphone</a>
   <a href="">headphone</a>
-  <a href="C:\Users\hp\Desktop\about.html">About</a>
+  <a href="about.html">About</a>
 </div>
 <style type="text/css">
 	.topnav {
