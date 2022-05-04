@@ -11,7 +11,7 @@
     
     <div class="topnav">
   <a  class="active" href="">Laptop</a>
-  <a href="">latest tranding smartphone</a>
+  <a href="latest smartphones.htm">latest tranding smartphone</a>
   <a href="">headphone</a>
   <a href="about.html">About</a>
 </div>
