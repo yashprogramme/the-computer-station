@@ -73,7 +73,7 @@ h3  { text-align: center;
 }
 </style>
 </head>
-<body background="C:\Users\hp\Downloads\bg.png">
+<body background="bg.png">
 
 
 
@@ -135,7 +135,7 @@ function showSlides() {
  <br>
  <h3 style="margin-left: 10%"> All this features under rupees 300-500</h3>
  <div>
-<img src="C:\Users\hp\Downloads\end.png" style="border-radius: 30%;">
+<img src="end.png" style="border-radius: 30%;">
 <h4 style="position: absolute;margin-left: 30%; font-weight: lighter;color: orange;"><u>Three main dvantages of taking my service</u></h4>
 <br><br>
 <br>
